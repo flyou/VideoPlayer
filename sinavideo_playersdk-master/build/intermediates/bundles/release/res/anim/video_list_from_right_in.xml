@@ -6,4 +6,4 @@
     android:interpolator="@android:anim/accelerate_interpolator"
     android:startOffset="0"
     android:toXDelta="0%p" />
-<!-- From: file:/C:/Users/Administrator.PC-20151010KCLU/Desktop/MyApplication/sinavideo_playersdk-master/res/anim/video_list_from_right_in.xml -->
+<!-- From: file:/C:/Users/momo/Desktop/MyApplication/sinavideo_playersdk-master/res/anim/video_list_from_right_in.xml -->

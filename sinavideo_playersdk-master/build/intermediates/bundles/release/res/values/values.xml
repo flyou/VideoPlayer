@@ -21,7 +21,7 @@
     <declare-styleable name="VDVideoSoundSeekButton"><attr format="reference" name="soundSeekContainer"/><attr format="reference" name="soundSeekSilent"/></declare-styleable>
     <declare-styleable name="VDVideoSoundSeekImageView"><attr format="reference" name="muteSrc"/></declare-styleable>
     <declare-styleable name="VDVideoView"><attr format="reference" name="layerAttrs"/><attr format="enum" name="canPopupWindow"><enum name="rightBottom" value="0"/><enum name="leftBottom" value="1"/><enum name="centerBottom" value="2"/></attr><attr format="dimension" name="popWindowWidth"/><attr format="dimension" name="popWindowHeight"/></declare-styleable>
-    <!-- From: file:/C:/Users/Administrator.PC-20151010KCLU/Desktop/MyApplication/sinavideo_playersdk-master/res/values/dimes.xml -->
+    <!-- From: file:/C:/Users/momo/Desktop/MyApplication/sinavideo_playersdk-master/res/values/dimes.xml -->
     <eat-comment/>
     <dimen name="btn_padding">3.5dip</dimen>
     <dimen name="controller_bottom_fullscreen_btn_marginRight">9dip</dimen>
@@ -72,10 +72,10 @@
     <dimen name="media_controller_tip_padding">5.5dip</dimen>
     <dimen name="media_controller_tip_padding_bottom">5.5dip</dimen>
     <dimen name="media_controller_tip_padding_top">5.5dip</dimen>
-    <!-- From: file:/C:/Users/Administrator.PC-20151010KCLU/Desktop/MyApplication/sinavideo_playersdk-master/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/momo/Desktop/MyApplication/sinavideo_playersdk-master/res/values/strings.xml -->
     <eat-comment/>
     <drawable name="translate">#00000000</drawable>
-    <!-- From: file:/C:/Users/Administrator.PC-20151010KCLU/Desktop/MyApplication/sinavideo_playersdk-master/res/values/ids.xml -->
+    <!-- From: file:/C:/Users/momo/Desktop/MyApplication/sinavideo_playersdk-master/res/values/ids.xml -->
     <eat-comment/>
     <item name="btnCloseTip" type="id"/>
     <item name="btn_dlna_switch" type="id"/>
@@ -94,7 +94,7 @@
     <item name="tipLayout" type="id"/>
     <item name="tipMessage" type="id"/>
     <item name="tip_message" type="id"/>
-    <!-- From: file:/C:/Users/Administrator.PC-20151010KCLU/Desktop/MyApplication/sinavideo_playersdk-master/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/momo/Desktop/MyApplication/sinavideo_playersdk-master/res/values/strings.xml -->
     <eat-comment/>
     <string name="app_name">sinavideo_playersdk_v2.0</string>
     <string name="base_definition">标清</string>

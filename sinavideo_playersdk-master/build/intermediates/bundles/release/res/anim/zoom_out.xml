@@ -20,4 +20,4 @@
         android:interpolator="@android:anim/decelerate_interpolator"
         android:toAlpha="0.0" />
 
-</set><!-- From: file:/C:/Users/Administrator.PC-20151010KCLU/Desktop/MyApplication/sinavideo_playersdk-master/res/anim/zoom_out.xml -->
+</set><!-- From: file:/C:/Users/momo/Desktop/MyApplication/sinavideo_playersdk-master/res/anim/zoom_out.xml -->

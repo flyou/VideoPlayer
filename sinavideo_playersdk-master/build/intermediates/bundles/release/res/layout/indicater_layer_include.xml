@@ -29,4 +29,4 @@
         android:layout_marginRight="@dimen/indicater_sound_margin_right"
         android:background="@drawable/indicater_progress" />
 
-</RelativeLayout><!-- From: file:/C:/Users/Administrator.PC-20151010KCLU/Desktop/MyApplication/sinavideo_playersdk-master/res/layout/indicater_layer_include.xml -->
+</RelativeLayout><!-- From: file:/C:/Users/momo/Desktop/MyApplication/sinavideo_playersdk-master/res/layout/indicater_layer_include.xml -->

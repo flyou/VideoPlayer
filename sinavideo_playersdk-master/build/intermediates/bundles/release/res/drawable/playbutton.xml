@@ -7,4 +7,4 @@
 	<item android:drawable="@drawable/playbutton_press"
 		android:state_focused="true" />
 	<item android:drawable="@drawable/playbutton_default" />
-</selector><!-- From: file:/C:/Users/Administrator.PC-20151010KCLU/Desktop/MyApplication/sinavideo_playersdk-master/res/drawable/playbutton.xml -->
+</selector><!-- From: file:/C:/Users/momo/Desktop/MyApplication/sinavideo_playersdk-master/res/drawable/playbutton.xml -->

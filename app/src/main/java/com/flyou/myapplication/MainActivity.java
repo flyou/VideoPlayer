@@ -157,6 +157,7 @@ public class MainActivity extends Activity implements
     public void onFrameADPrepared(VDVideoInfo info) {
         // TODO Auto-generated method stub
         Toast.makeText(this, "在这儿换图", Toast.LENGTH_LONG).show();
+
     }
 
     @Override
